@@ -78,6 +78,6 @@ dd {
 
 /* Draw a 2px dashed rosybrown border around the address/footer */
 address {
-   border: 2px dashed;
+   border: 2px dashed rosybrown;
    padding: 10px;
 }
